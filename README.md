@@ -1,6 +1,6 @@
 # WEARCOOL
 
-> A modern, responsive e-commerce landing page for a contemporary fashion brand — built with Next.js and React.
+> A modern, responsive e-commerce landing page for a contemporary fashion brand, built with Next.js and React.
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
@@ -8,10 +8,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
-<img width="1917" height="906" alt="Image" src="https://github.com/user-attachments/assets/354654ac-8446-4a51-a3fe-4b993f770922" />
-<img width="1917" height="917" alt="Image" src="https://github.com/user-attachments/assets/cc7d3816-6ebb-434e-816d-ff49e0d0f115" />
-<img width="1917" height="908" alt="Image" src="https://github.com/user-attachments/assets/0b4211e5-876c-4e1c-bd22-073195c772ce" />
-<img width="1917" height="896" alt="Image" src="https://github.com/user-attachments/assets/327a757e-79b4-4bc5-8a8a-d20d304cfdb5" />
+<img width="1917" height="902" alt="Image" src="https://github.com/user-attachments/assets/a7f68582-1164-43d3-9e65-12dfd6b840f6" />
+<img width="1917" height="896" alt="Image" src="https://github.com/user-attachments/assets/201c01a0-b950-4f7c-8a2b-83a9cc340667" />
+<img width="1917" height="897" alt="Image" src="https://github.com/user-attachments/assets/e4624c99-29e1-47cd-b47d-821b380ee9dd" />
+<img width="1917" height="897" alt="Image" src="https://github.com/user-attachments/assets/96863e9e-53dd-4248-b85d-163b03e53a8a" />
 ---
 
 ## Overview
