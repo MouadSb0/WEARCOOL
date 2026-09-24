@@ -3,7 +3,7 @@ import path from 'node:path';
 import './globals.css';
 
 export const metadata = {
-  title: 'GAZU',
+  title: 'WEARCOOL',
 };
 
 export default function RootLayout({ children }) {
