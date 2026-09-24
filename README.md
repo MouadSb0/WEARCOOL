@@ -80,6 +80,7 @@ A modern, responsive clothing store landing page built with Next.js and React. W
 
 > **Note:** `index.html` is preserved from the original static version and serves as the Tailwind configuration source.
 
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
