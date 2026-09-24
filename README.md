@@ -1,4 +1,3 @@
-```markdown
 # WEARCOOL
 
 > A modern, responsive e-commerce landing page for a contemporary fashion brand — built with Next.js and React.
